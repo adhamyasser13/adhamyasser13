@@ -27,25 +27,34 @@ I'm a Front-End Developer trainee at **DEPI**, currently developing my skills in
 * Advanced Front-End Development
 * React.js
 * Modern JavaScript
-* Web Application Security
 * Responsive Web Design
+* Web Application Security
 
 ### 💼 Experience
 
 **Front-End Developer Trainee — DEPI**
+
 6-month Front-End Development training with hands-on practical work, including individual and team-based tasks.
 
 **IT Trainee — GUPCO**
-Information Technology & Telecommunication Department
-Completed a 3-week internship focused on telecommunications and IT-related topics.
+
+Information Technology & Telecommunication Department. Completed a 3-week internship focused on telecommunications and IT-related topics.
 
 **Medcom Trainee**
+
 Completed a 1-month practical training involving lighting installation and field work.
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adhamyasser13&show_icons=true&theme=tokyonight" alt="El Adham Yasser GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adhamyasser13&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhamyasser13&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adhamyasser13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📫 Connect With Me
@@ -54,3 +63,4 @@ Completed a 1-month practical training involving lighting installation and field
 * Email: [adhamyasser05@gmail.com](mailto:adhamyasser05@gmail.com)
 
 💡 **Open to freelance opportunities, collaborations, and interesting Front-End projects.**
+
